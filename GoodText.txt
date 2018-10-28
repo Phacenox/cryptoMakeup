@@ -1,0 +1,32 @@
+{Some;More}
+ efficient attacks 
+{are possible;can be found}
+ by 
+{employing;applying}
+ cryptanalysis to 
+{specific;certain}
+ hash functions. When a collision attack is 
+{realized;discovered}
+ and is found to be 
+{faster;more efficient}
+ than a birthday attack, 
+{a;the}
+ hash function is often denounced as 
+{"broken".;"cracked".}
+ The NIST hash function competition was 
+{largely;mostly}
+ induced by published collision attacks 
+{against;targeting}
+ two very commonly used hash functions, MD5 and SHA-1. The collision attacks 
+{against;targeting}
+ MD5 have improved so much that, as of 2007, it 
+{takes;can take}
+ just a few seconds on a regular computer. Hash collisions 
+{created;implemented}
+ this way are usually constant 
+{length;size}
+ and largely unstructured, so cannot directly be 
+{applied;used}
+ to attack 
+{widespread;widely used}
+ document formats or protocols.

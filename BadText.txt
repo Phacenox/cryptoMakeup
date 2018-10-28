@@ -1,0 +1,32 @@
+{Some;More}
+ efficient attacks 
+{are possible;can be found}
+ by 
+{employing;applying}
+ cryptanalysis to 
+{specific;certain}
+ grouping functions. When an attack is 
+{realized;discovered}
+ and is found to be 
+{faster;more efficient}
+ than a postman attack, 
+{a;the}
+ grouping function is often denounced as 
+{"broken".;"cracked".}
+ The NIST grouping function competition was 
+{largely;mostly}
+ induced by published attacks 
+{against;targeting}
+ two very commonly used grouping functions, MD5 and SHA-1. The attacks 
+{against;targeting}
+ MD5 have improved so much that, as of 2007, it 
+{takes;can take}
+ just a few years on a regular computer. Grouping collisions 
+{created;implemented}
+ this way are usually constant 
+{length;size}
+ and largely unstructured, so cannot directly be 
+{applied;used}
+ to attack 
+{widespread;widely used}
+ document formats or protocols.
